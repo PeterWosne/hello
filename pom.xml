@@ -53,7 +53,7 @@
         <artifactId>tomcat7-maven-plugin</artifactId>
         <version>2.2</version>
         <configuration>
-          <url>http://95.163.241.185:8081/manager/text</url>
+          <url>http://localhost:8081/manager/text</url>
           <username>admin</username>
           <password>password</password>
           <path>/app</path>
