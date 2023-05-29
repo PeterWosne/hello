@@ -48,6 +48,7 @@
   <build>
     <finalName>java-web-project</finalName>
     <plugins>
+      <!--
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
         <artifactId>tomcat7-maven-plugin</artifactId>
@@ -58,7 +59,7 @@
           <password>password</password>
           <path>/app</path>
         </configuration>
-      </plugin>
+      </plugin>-->
 
 
       <plugin>
