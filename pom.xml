@@ -48,7 +48,6 @@
   <build>
     <finalName>java-web-project</finalName>
     <plugins>
-      <!--
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
         <artifactId>tomcat7-maven-plugin</artifactId>
@@ -60,7 +59,7 @@
           <path>/app</path>
         </configuration>
       </plugin>
-      -->
+
 
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
